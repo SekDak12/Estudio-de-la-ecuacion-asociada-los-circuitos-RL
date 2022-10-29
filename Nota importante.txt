@@ -1,0 +1,15 @@
+Para el correcto funcionamiento del codigo de python es necesario instalar con anterioridad las siguientes bibliotecas.
+
+-matplotlib
+-pandas
+
+Esto se puede hacer mediante el centro de comando de su sistema operativo y el comando pip, en su controlador de comandos escriba lo siguiente:
+
+
+pip install matplotlib
+pip install pandas
+
+De no tener instalado el comando pip, favor de instalar mediante la pagina:
+https://pip.pypa.io/en/stable/installing/
+
+Mientras que en el codigo de fortran no es necesarario algun otro archivo, ya que las funciones utulizadas en el mismo se encuentran al final del codigo, el codigo fue utilizando fortran 90 para tener mayor compatibilidad con las nuevas versiones de fortran. mientras que python fue la version 3.7.8. 
